@@ -1,4 +1,4 @@
-# SIGA Laudos
+# Sistema de Laudos
 
 Aplicação Angular SPA (Single Page Application) para cadastro de laudos de veículos sinistrados, com fluxo passo a passo, checklist específico por tipo de veículo e exportação para JSON.
 
